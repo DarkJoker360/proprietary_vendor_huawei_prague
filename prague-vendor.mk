@@ -2631,6 +2631,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/prague/proprietary/etc/charger/800x1280_hz/number_8.png:system/etc/charger/800x1280_hz/number_8.png \
     vendor/huawei/prague/proprietary/etc/charger/800x1280_hz/number_9.png:system/etc/charger/800x1280_hz/number_9.png \
     vendor/huawei/prague/proprietary/etc/charger/800x1280_hz/percent_sign.png:system/etc/charger/800x1280_hz/percent_sign.png \
+    vendor/huawei/prague/proprietary/framework/com.android.nfc_extras.jar:system/framework/com.android.nfc_extras.jar \
+    vendor/huawei/prague/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
+    vendor/huawei/prague/proprietary/lib/vndk/android.hardware.nfc@1.0.so:system/lib/android.hardware.nfc@1.0.so \
     vendor/huawei/prague/proprietary/lib/vndk-compat/android.frameworks.schedulerservice@1.0.so:system/lib/vndk-compat/android.frameworks.schedulerservice@1.0.so \
     vendor/huawei/prague/proprietary/lib/vndk-compat/android.frameworks.sensorservice@1.0.so:system/lib/vndk-compat/android.frameworks.sensorservice@1.0.so \
     vendor/huawei/prague/proprietary/lib/vndk-compat/android.frameworks.vr.composer@1.0.so:system/lib/vndk-compat/android.frameworks.vr.composer@1.0.so \
@@ -2792,6 +2795,11 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/prague/proprietary/lib/vndk-sp-compat/libpng.so:system/lib/vndk-sp-compat/libpng.so \
     vendor/huawei/prague/proprietary/lib/vndk-sp-compat/libunwind.so:system/lib/vndk-sp-compat/libunwind.so \
     vendor/huawei/prague/proprietary/lib/vndk-sp-compat/libutils.so:system/lib/vndk-sp-compat/libutils.so \
+    vendor/huawei/prague/proprietary/lib64/android.hardware.nfc@1.0.so:system/lib64/android.hardware.nfc@1.0.so \
+    vendor/huawei/prague/proprietary/lib64/libnfc-nci.so:system/lib64/libnfc-nci.so \
+    vendor/huawei/prague/proprietary/lib64/libnfc_nci_jni.so:system/lib64/libnfc_nci_jni.so \
+    vendor/huawei/prague/proprietary/lib64/libnfc_ndef.so:system/lib64/libnfc_ndef.so \
+    vendor/huawei/prague/proprietary/lib64/vndk/android.hardware.nfc@1.0.so:system/lib64/vndk/android.hardware.nfc@1.0.so \
     vendor/huawei/prague/proprietary/lib64/vndk-compat/android.frameworks.displayservice@1.0.so:system/lib64/vndk-compat/android.frameworks.displayservice@1.0.so \
     vendor/huawei/prague/proprietary/lib64/vndk-compat/android.frameworks.schedulerservice@1.0.so:system/lib64/vndk-compat/android.frameworks.schedulerservice@1.0.so \
     vendor/huawei/prague/proprietary/lib64/vndk-compat/android.frameworks.sensorservice@1.0.so:system/lib64/vndk-compat/android.frameworks.sensorservice@1.0.so \
