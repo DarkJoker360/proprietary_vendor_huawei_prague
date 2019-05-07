@@ -2782,8 +2782,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/prague/proprietary/lib/vndk-26/libxml2.so:system/lib/vndk-26/libxml2.so \
     vendor/huawei/prague/proprietary/lib/vndk-26/libyuv.so:system/lib/vndk-26/libyuv.so \
     vendor/huawei/prague/proprietary/lib/vndk-26/libziparchive.so:system/lib/vndk-26/libziparchive.so \
-    vendor/huawei/prague/proprietary/lib/vendor.huawei.hardware.graphics.displayeffect@1.0.so:system/lib/vendor.huawei.hardware.graphics.displayeffect@1.0.so \
-    vendor/huawei/prague/proprietary/lib/vendor.huawei.hardware.graphics.displayeffect@1.1.so:system/lib/vendor.huawei.hardware.graphics.displayeffect@1.1.so \
     vendor/huawei/prague/proprietary/lib/vendor.huawei.hardware.hwdisplay.displayengine@1.0.so:system/lib/vendor.huawei.hardware.hwdisplay.displayengine@1.0.so \
     vendor/huawei/prague/proprietary/lib/vendor.huawei.hardware.hwdisplay.displayengine@1.1.so:system/lib/vendor.huawei.hardware.hwdisplay.displayengine@1.1.so \
     vendor/huawei/prague/proprietary/lib/vndk-sp-26/android.hardware.graphics.allocator@2.0.so:system/lib/vndk-sp-26/android.hardware.graphics.allocator@2.0.so \
@@ -2806,7 +2804,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/prague/proprietary/lib/vndk-sp-26/libhardware.so:system/lib/vndk-sp-26/libhardware.so \
     vendor/huawei/prague/proprietary/lib/vndk-sp-26/libhidlbase.so:system/lib/vndk-sp-26/libhidlbase.so \
     vendor/huawei/prague/proprietary/lib/vndk-sp-26/libhidlmemory.so:system/lib/vndk-sp-26/libhidlmemory.so \
-    vendor/huawei/prague/proprietary/lib/vndk-sp-26/libhidltransport.so:system/lib/vndk-sp-26/libhidltransport.so \
     vendor/huawei/prague/proprietary/lib/vndk-sp-26/libhwbinder.so:system/lib/vndk-sp-26/libhwbinder.so \
     vendor/huawei/prague/proprietary/lib/vndk-sp-26/libion.so:system/lib/vndk-sp-26/libion.so \
     vendor/huawei/prague/proprietary/lib/vndk-sp-26/liblzma.so:system/lib/vndk-sp-26/liblzma.so \
@@ -2968,8 +2965,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/prague/proprietary/lib64/vndk-26/libxml2.so:system/lib64/vndk-26/libxml2.so \
     vendor/huawei/prague/proprietary/lib64/vndk-26/libyuv.so:system/lib64/vndk-26/libyuv.so \
     vendor/huawei/prague/proprietary/lib64/vndk-26/libziparchive.so:system/lib64/vndk-26/libziparchive.so \
-    vendor/huawei/prague/proprietary/lib64/vendor.huawei.hardware.graphics.displayeffect@1.0.so:system/lib64/vendor.huawei.hardware.graphics.displayeffect@1.0.so \
-    vendor/huawei/prague/proprietary/lib64/vendor.huawei.hardware.graphics.displayeffect@1.1.so:system/lib64/vendor.huawei.hardware.graphics.displayeffect@1.1.so \
     vendor/huawei/prague/proprietary/lib64/vendor.huawei.hardware.hwdisplay.displayengine@1.0.so:system/lib64/vendor.huawei.hardware.hwdisplay.displayengine@1.0.so \
     vendor/huawei/prague/proprietary/lib64/vendor.huawei.hardware.hwdisplay.displayengine@1.1.so:system/lib64/vendor.huawei.hardware.hwdisplay.displayengine@1.1.so \
     vendor/huawei/prague/proprietary/lib64/vndk-sp-26/android.hardware.graphics.allocator@2.0.so:system/lib64/vndk-sp-26/android.hardware.graphics.allocator@2.0.so \
@@ -2992,7 +2987,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/prague/proprietary/lib64/vndk-sp-26/libhardware.so:system/lib64/vndk-sp-26/libhardware.so \
     vendor/huawei/prague/proprietary/lib64/vndk-sp-26/libhidlbase.so:system/lib64/vndk-sp-26/libhidlbase.so \
     vendor/huawei/prague/proprietary/lib64/vndk-sp-26/libhidlmemory.so:system/lib64/vndk-sp-26/libhidlmemory.so \
-    vendor/huawei/prague/proprietary/lib64/vndk-sp-26/libhidltransport.so:system/lib64/vndk-sp-26/libhidltransport.so \
     vendor/huawei/prague/proprietary/lib64/vndk-sp-26/libhwbinder.so:system/lib64/vndk-sp-26/libhwbinder.so \
     vendor/huawei/prague/proprietary/lib64/vndk-sp-26/libion.so:system/lib64/vndk-sp-26/libion.so \
     vendor/huawei/prague/proprietary/lib64/vndk-sp-26/liblzma.so:system/lib64/vndk-sp-26/liblzma.so \
