@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/huawei/prague/proprietary/bin/displayengineserver@1.0:system/bin/displayengineserver@1.0 \
     vendor/huawei/prague/proprietary/bin/displayengineserver@1.1:system/bin/displayengineserver@1.1 \
+    vendor/huawei/prague/proprietary/bin/hw-fpnav:system/bin/hw-fpnav \
     vendor/huawei/prague/proprietary/emui/base/global/ons.bin:system/emui/base/global/ons.bin \
     vendor/huawei/prague/proprietary/etc/charger/1080x1920/battery_01.png:system/etc/charger/1080x1920/battery_01.png \
     vendor/huawei/prague/proprietary/etc/charger/1080x1920/battery_02.png:system/etc/charger/1080x1920/battery_02.png \
